@@ -16,15 +16,13 @@ To run this game, you need to have Python installed on your system. No additiona
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your_repository_url>
+    git clone https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame
     ```
-    (Replace `<your_repository_url>` with the actual URL of your GitHub repository)
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your_repository_name
+    cd https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame
     ```
-    (Replace `your_repository_name` with the name of the directory created after cloning)
 
 ## How to Play
 
@@ -40,8 +38,11 @@ A window will open, and you can start playing the Snake game!
 Use the following arrow keys to control the snake's direction:
 
 Up Arrow: Move the snake upwards.
+
 Down Arrow: Move the snake downwards.
+
 Left Arrow: Move the snake to the left.
-Right Arrow: Move the snake to the right.  
+
+Right Arrow: Move the snake to the right.
 
 Important Note: The snake cannot immediately reverse its direction.
