@@ -26,7 +26,7 @@ To run this game, you need to have Python installed on your system. No additiona
 
 ## How to Play
 
-Simply run the `main.py` file (or whatever you named your main game file) using Python:
+Simply run the `main.py` file using Python:
 
 ```bash
 python main.py
