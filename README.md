@@ -21,7 +21,7 @@ To run this game, you need to have Python installed on your system. No additiona
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame
+    cd PersonalSnakeGame
     ```
 
 ## How to Play
