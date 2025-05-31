@@ -13,6 +13,7 @@ This repository contains a simple implementation of the classic Snake game using
 ## Installation
 
 To run this game, you need to have Python installed on your system. No additional libraries need to be installed as it uses the built-in `turtle` module.
+Open the cmd line and find where you want to install the game and do the following commands:
 
 1.  **Clone the repository:**
     ```bash
@@ -26,7 +27,7 @@ To run this game, you need to have Python installed on your system. No additiona
 
 ## How to Play
 
-Simply run the `main.py` file using Python:
+Now, in the same cmd line, simply run the `main.py` file using Python:
 
 ```bash
 python main.py
